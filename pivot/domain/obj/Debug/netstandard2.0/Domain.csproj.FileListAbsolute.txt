@@ -1,0 +1,9 @@
+C:\projetos\pivot\domain\bin\Debug\netstandard2.0\Domain.deps.json
+C:\projetos\pivot\domain\bin\Debug\netstandard2.0\Domain.dll
+C:\projetos\pivot\domain\bin\Debug\netstandard2.0\Domain.pdb
+C:\projetos\pivot\domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
+C:\projetos\pivot\domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+C:\projetos\pivot\domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+C:\projetos\pivot\domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+C:\projetos\pivot\domain\obj\Debug\netstandard2.0\Domain.dll
+C:\projetos\pivot\domain\obj\Debug\netstandard2.0\Domain.pdb
